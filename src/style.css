@@ -1,0 +1,85 @@
+
+header .container-fluid{
+    color: rgb(27, 3, 3);
+    background-color: rgb(70, 168, 25);
+    height: 100px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    padding-top: 10px;
+}
+footer .container-fluid{
+    color: white;
+    background-color: rgb(49, 26, 71);
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+body .col-md-10{
+    background-color: white;
+    font-family: serif;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+body h1{
+    color:rebeccapurple;
+}
+body .col-md-2{
+    background-color: rgb(163, 84, 84);
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    color:brown;
+}
+
+body ul{
+    list-style: none;
+    color:white;
+    font-family: serif;
+    
+}
+
+body small{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+body li{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+body .blogpost{
+    background-color: lightgrey;
+}
+body .panel-body{
+    font-family: 'Vollkorn SC', serif;
+    color:rgb(27, 2, 2);
+}
+
+body .pull-left{
+    font-family: 'Roboto', sans-serif;
+}
+
+body #datechronology{
+    font-family: 'Roboto', sans-serif;
+    font-size:20px;
+    margin-bottom: 5px;
+}
+
+body #datechronology a:hover{
+    background-color: black;
+    color: inherit; 
+    text-decoration: inherit; 
+}
+
+body #datechronology a:link{
+    background-color: grey;
+    color: inherit; 
+    text-decoration: inherit; 
+}
+
+body #datechronology a{
+    color: white;
+}
